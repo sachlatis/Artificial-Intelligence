@@ -29,3 +29,7 @@ Some classes of similarity for "Harry Potter and the Half-Blood Prince" : <br/>
 
 Simple Recommender for "Star Wars: Episode III - Revenge of th Sith" : <br/>
 <img src="/images/second/simple_recommender.png" width="35%" height ="35%">
+
+
+# Theory Assignments (Bonus :p) 
+Hand-written answers for the theory assignments of this course! Enjoy!
