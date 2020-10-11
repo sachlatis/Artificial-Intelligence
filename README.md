@@ -22,3 +22,10 @@ In the *first part* of this exercise we examine the dataset and create some simp
 In the *second part* of this exercise we had to combine the rules that we created at the first part in order to create a recommender system. This system will take as input a movie, and will give as output the 10 best matching movies.<br/>
 In the *third part* we considered the overall rating of other movies for the examine user. So the recommender system had to overview the user's old preferences and use the existing rules of the second part. <br/>
 Questions such as “What is more important: the user’s old preferences or the already knowledge of association between the films?” were solved through many simulations in the given dataset.<br/>
+
+### Some examples
+Some classes of similarity for "Harry Potter and the Half-Blood Prince" : <br/>
+<img src="/images/second/classes.png" width="25%" height ="25%">
+
+Simple Recommender for "Star Wars: Episode III - Revenge of th Sith" : <br/>
+<img src="/images/second/simple_recommender.png" width="25%" height ="25%">
