@@ -25,7 +25,7 @@ Questions such as “What is more important: the user’s old preferences or the
 
 ### Some examples
 Some classes of similarity for "Harry Potter and the Half-Blood Prince" : <br/>
-<img src="/images/second/classes.png" width="25%" height ="25%">
+<img src="/images/second/classes.png" width="35%" height ="35%">
 
 Simple Recommender for "Star Wars: Episode III - Revenge of th Sith" : <br/>
-<img src="/images/second/simple_recommender.png" width="25%" height ="25%">
+<img src="/images/second/simple_recommender.png" width="35%" height ="35%">
