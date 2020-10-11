@@ -9,11 +9,5 @@ At the *second part* some search algorithms were implemented, more specifically 
 The final result conclude an video visualization for each step of the algorithm, but these videos could not properly loaded at github <br/>
 At the *third part* the different algorithms were compared. This step took a lot of time, and interesting results were concluded. <br/>
 
-<img src="/images/first/grid1.png" width="25%" height ="25%">
-
-<section data-markdown>
-                    ## Some Header
-                        Info over here
-                    ![alt_text](images/an_image.jpg)
-  <img src="/images/first/grid1.png">
-                </section>
+<img src="/images/first/grid1.png" width="25%" height ="25%"> 
+<img src="/images/first/grid2.png" width="25%" height ="25%"> 
