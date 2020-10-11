@@ -11,11 +11,9 @@ At the *third part* the different algorithms were compared. This step took a lot
 
 <img src="/images/first/grid1.png" width="25%" height ="25%">
 
-                <section data-markdown>
+<section data-markdown>
                     ## Some Header
-
                         Info over here
-
                     ![alt_text](images/an_image.jpg)
-                    <img src="/images/first/grid1.png">
+  <img src="/images/first/grid1.png">
                 </section>
