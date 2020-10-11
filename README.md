@@ -10,8 +10,8 @@ The final result conclude an video visualization for each step of the algorithm,
 At the *third part* the different algorithms were compared. This step took a lot of time, and interesting results were concluded. <br/>
 
 ### Some examples
-A radom grid
+A radom grid <br/>
 <img src="/images/first/grid1.png" width="25%" height ="25%">
 
-The result of A* algorith on a radom grid
+The result of A* algorith on a radom grid <br/>
 <img src="/images/first/A*_result.png" width="25%" height ="25%"> 
