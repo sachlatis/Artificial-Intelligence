@@ -9,4 +9,4 @@ At the *second part* some search algorithms were implemented, more specifically 
 The final result conclude an video visualization for each step of the algorithm, but these videos could not properly loaded at github <br/>
 At the *third part* the different algorithms were compared. This step took a lot of time, and interesting results were concluded. <br/>
 
-<img src="/images/first/grid1.png" width="10%" height ="10%">
+<img src="/images/first/grid1.png" width="25%" height ="25%">
