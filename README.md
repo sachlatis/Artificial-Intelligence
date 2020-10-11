@@ -1,3 +1,3 @@
 # Artificial Intelligence: Theory and applications
 
-This repository contains the programming exercise and the Theory Assignments for ECE NTUA course Artificial Intelligence
+This repository contains the programming exercises and the theory assignments for ECE NTUA course Artificial Intelligence
